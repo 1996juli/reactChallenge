@@ -1,0 +1,18 @@
+//AUTH
+export const LOGIN_SUCCESSFUL = 'LOGIN_SUCCESSFUL';
+export const LOGIN_ERROR = 'LOGIN_ERROR';
+export const LOADING = 'LOADING';
+export const LOG_OUT = 'LOG_OUT';
+
+//HERO
+export const SEARCH_HERO_START = 'SEARCH_HERO_START';
+export const SEARCH_HERO_OK = 'SEARCH_HERO_OK ';
+export const SEARCH_HERO_ERROR = 'SEARCH_HERO_ERROR';
+
+export const ADD_HERO_TEAM = 'ADD_HERO_TEAM';
+export const ADD_HERO_TEAM_ERROR = 'ADD_HERO_TEAM_ERROR';
+export const POWER_STATS_TEAM = 'POWER_STATS_TEAM';
+export const HEIGHT_WEIGHT = 'HEIGHT_WEIGHT';
+export const DELETE_HERO = 'DELETE_HERO';
+
+
